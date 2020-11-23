@@ -1,0 +1,83 @@
+/* LOGIN STYLES */
+
+.login-page {
+    background: linear-gradient(rgba(119, 45, 11, .8),rgba(102, 37, 7, .9)), url(../images/std-bg2.jpg) no-repeat left center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.text-esut {
+    color: #72100d !important;
+}
+
+.login-logo  {
+    margin: 1.5rem 0 1rem;
+}
+
+.login-text {
+    color: #fff;
+}
+
+#login-card {
+    /* background-color: rgba(255, 255, 255, 0.9); */
+}
+
+.btn-esut {
+    color: #fff;
+    background-color:rgba(119, 45, 11, .9);
+    border-color: rgba(119, 45, 11, .9);
+}
+
+.btn-esut:hover {
+    color: #fff;
+    background-color:rgba(119, 45, 11, .95);
+}
+
+/* APP STYLES */
+.header {
+    background-color: #E91E63;
+    color: #fff;
+    padding: 1rem 0;
+}
+
+.logo h4 {
+    font-size: 1.3rem;
+    margin: 0;
+}
+
+.logo img {
+    width: 48px !important;
+    height: 48px !important;
+    margin-right: .8rem;
+}
+
+.user h4 {
+    font-size: 1rem;
+}
+
+.navbar {
+    background-color: #e8ca93;
+}
+
+.navbar i, a {
+    color: #8a4343;
+}
+
+.navbar a:hover {
+    color: rgba(138,67,67, 0.8);
+}
+
+.right-seperator {
+    border-right: 1px solid  rgba(138,67,67, 0.2);
+}
+
+.card-content i {
+    font-size: 2.5rem;
+}
+
+.card-content h4 span.count {
+    display: block;
+    font-size: 1rem;
+    color: #777;
+    font-weight: lighter;
+}
